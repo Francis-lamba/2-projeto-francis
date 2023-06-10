@@ -1,0 +1,31 @@
+body{
+    text-align: right;
+    text-align: center;
+    padding: 10px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(199, 93, 18);
+    
+ } 
+ nav{
+    display:flex;
+    justify-content: space-between; 
+    list-style-type: none;
+    align-items: center;
+    padding: 0px;
+ }
+h3{
+    color:white;
+}
+h2{
+    color: white;
+}
+h4{
+    color: white;
+}
+p{
+    color: white;
+}
